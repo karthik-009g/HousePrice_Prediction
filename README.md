@@ -7,7 +7,7 @@ The primary objective is to build a predictive model that can estimate the sale 
 
 Year and month of sale
 
-Lot square footage
+Lot square footage 
 
 Number of bedrooms
 
