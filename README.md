@@ -1,7 +1,7 @@
 # HousePrice_Prediction
 House Prices Prediction
 This repository presents a machine learning project aimed at predicting house sale prices using data from Ames, Iowa. The dataset includes a rich set of features describing various aspects of residential homes, making it an excellent case study for regression modeling and real-world data analysis.
-
+ 
 📌 Project Objective
 The primary objective is to build a predictive model that can estimate the sale price of a house based on features such as:
 
