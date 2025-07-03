@@ -14,7 +14,7 @@ Number of bedrooms
 And many other structural and location-based attributes
 
 This project provides an opportunity to practice data preprocessing, exploratory data analysis (EDA), feature engineering, and regression modeling.
-
+  
 🗂️ Dataset Description
 The dataset files included in this repository are:
 
