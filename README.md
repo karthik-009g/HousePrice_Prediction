@@ -48,4 +48,6 @@ Prediction & Submission:
 Generating predictions on the test set and formatting the output as per sample_submission.csv.
 
 📈 Results
+
+Current Result Model Is Perfectfit due to SalePrice Being INcluded in The x data  
 The baseline model leverages linear regression on a few key features (year and month of sale, lot area, bedrooms). Further improvements can be achieved through advanced modeling and hyperparameter tuning.
