@@ -4,7 +4,7 @@ This repository presents a machine learning project aimed at predicting house sa
    
 📌 Project Objective
 The primary objective is to build a predictive model that can estimate the sale price of a house based on features such as:
-
+ 
 Year and month of sale 
    
 Lot square footage   
